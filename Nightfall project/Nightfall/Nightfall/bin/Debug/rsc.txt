@@ -1,0 +1,173 @@
+
+Area themes:
+
+Plantlife
+Water
+Metal
+
+
+Player theme:
+
+Light (Daybreak)
+Dark (Nightfall)
+
+
+Allies:
+
+Kestryl
+Hammond
+Katya
+Charnoth
+
+
+Weapons:
+
+Player - light/dark broadsword
+Kestryl - archer (general)
+Hammond - trap-setter (anti-water)
+Katya - rifle hunter (anti-metal)
+Charnoth - pyromaniac (anti-plantlife)
+
+
+Maximum number of allies: 2
+
+
+Secondary weapons:
+
+// Tier 1
+Rock ~ 10 dmg ~ 10% extra versus plantlife
+Jar of Bees ~ 15 dmg ~ 25% extra versus plantlife
+
+// Tier 2
+Bomb ~ 50 dmg ~ -50% versus water
+Iron fist ~ 30 dmg ~ 10% versus metal
+Flaming spiked ball ~ 30 dmg ~ 15% versus plantlife
+
+// Tier 3
+Stern talking-to ~ 100 dmg ~ 5% versus water
+Quantum Obliteration Cannon ~ 9999 dmg ~
+
+
+Enemies:
+
+1a. Giant Spider (plantlife)
+HP: 60, ATK: 5
+1b. Annoying Fairy (plantlife)
+HP: 10, ATK: 10
+1c. Wild Boar (plantlife)
+HP: 120, ATK: 20
+2a. Disgusting Catfish (water)
+HP: 200, ATK: 30
+2b. Sentinel (water)
+HP: 150, ATK: 50
+3a. Hunter Droid (metal)
+HP: 500, ATK: 60
+3b. Metal Axe Warrior (metal)
+HP: 350, ATK: 150
+3c. Iron Titan (metal)
+HP: 1000, ATK: 200
+3d. Suicide Droid (metal)
+HP: 100, ATK: 500
+3e. Cybernetic Hunter-Killer (metal)
+HP: 800, ATK: 300
+
+
+
+Stats:
+
+Attack Power
+Defense
+Energy
+
+//
+
+Attack power is RAISED at nightfall, while Defense is LOWERED.
+Defense is RAISED at daybreak, while Attack power is LOWERED.
+
+Defense is lowered when player/ally is attacked.
+Defense is raised when player/ally uses a boost potion.
+
+Energy is RAISED in the day
+Energy is LOWERED at night
+
+Energy can be raised by magic potion
+Energy *can* be lowered by using an item or a secondary weapon
+
+Secondary weapons of Tier 1 will drain 100 energy.
+Secondary weapons of Tier 2 will drain 400 energy.
+Secondary weapons of Tier 3 will drain 1000 energy.
+
+//
+
+
+Items
+
+i1 HP potion
+i2 Magic potion
+i3 Fruit of The Tree of Life
+i4 Glass of milk
+i5 Pile of dung
+i6 Candle
+i7 Argonaut Fleece
+i8 Dragon's Tail
+i9 Pot o' Gold
+i10 Scroll of Death
+i11 The Red Paperclip
+i12 Red Key
+i13 Green Key
+i14 Blue key
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+// Character name code
+// The player can pick a name for their player
+// and pick a gender for their character.
+
+// The player's name
+string playerName;
+
+// pronouns
+string HisHers;
+string HimHer;
+string HeShe;
+string SirMam;
+string ManWoman;
+
+
+// This sets the narration to the appropriate pronouns, i.e., ("I think we may have a problem, " + SirMam + ".");
+// If somehow the user breaks the program, it should default to 'female'.
+
+if ( [combobox].selectedItem.equals("Male"))
+{
+HisHers = "his";
+HimHer = "him";
+HeShe = "he";
+SirMam = "sir";
+ManWoman = "man";
+}
+
+else if ( [combobox].selectedItem.equals("Female"))
+
+{
+HisHers = "hers";
+HimHer = "her";
+HeShe = "she";
+SirMam = "ma'am";
+ManWoman = "woman";
+}
+
+
+else
+
+{
+HisHers = "hers";
+HimHer = "her";
+HeShe = "she";
+SirMam = "ma'am";
+ManWoman = "woman";
+}
+
+

@@ -1,0 +1,13 @@
+/Users/correywinke/Desktop/Desktop - Correy’s MacBook Pro/testingCode/Nightfall/Nightfall project/Nightfall/Nightfall/bin/Debug/Nightfall.exe.config
+/Users/correywinke/Desktop/Desktop - Correy’s MacBook Pro/testingCode/Nightfall/Nightfall project/Nightfall/Nightfall/bin/Debug/Nightfall.exe
+/Users/correywinke/Desktop/Desktop - Correy’s MacBook Pro/testingCode/Nightfall/Nightfall project/Nightfall/Nightfall/bin/Debug/Nightfall.pdb
+/Users/correywinke/Desktop/Desktop - Correy’s MacBook Pro/testingCode/Nightfall/Nightfall project/Nightfall/Nightfall/obj/Debug/Nightfall.frmAbout.resources
+/Users/correywinke/Desktop/Desktop - Correy’s MacBook Pro/testingCode/Nightfall/Nightfall project/Nightfall/Nightfall/obj/Debug/Nightfall.frmConsole.resources
+/Users/correywinke/Desktop/Desktop - Correy’s MacBook Pro/testingCode/Nightfall/Nightfall project/Nightfall/Nightfall/obj/Debug/Nightfall.frmMessages.resources
+/Users/correywinke/Desktop/Desktop - Correy’s MacBook Pro/testingCode/Nightfall/Nightfall project/Nightfall/Nightfall/obj/Debug/Nightfall.frmplayerInfo.resources
+/Users/correywinke/Desktop/Desktop - Correy’s MacBook Pro/testingCode/Nightfall/Nightfall project/Nightfall/Nightfall/obj/Debug/Nightfall.frmWelcomeScreen.resources
+/Users/correywinke/Desktop/Desktop - Correy’s MacBook Pro/testingCode/Nightfall/Nightfall project/Nightfall/Nightfall/obj/Debug/Nightfall.Properties.Resources.resources
+/Users/correywinke/Desktop/Desktop - Correy’s MacBook Pro/testingCode/Nightfall/Nightfall project/Nightfall/Nightfall/obj/Debug/Nightfall.csproj.GenerateResource.Cache
+/Users/correywinke/Desktop/Desktop - Correy’s MacBook Pro/testingCode/Nightfall/Nightfall project/Nightfall/Nightfall/obj/Debug/Nightfall.csproj.CoreCompileInputs.cache
+/Users/correywinke/Desktop/Desktop - Correy’s MacBook Pro/testingCode/Nightfall/Nightfall project/Nightfall/Nightfall/obj/Debug/Nightfall.exe
+/Users/correywinke/Desktop/Desktop - Correy’s MacBook Pro/testingCode/Nightfall/Nightfall project/Nightfall/Nightfall/obj/Debug/Nightfall.pdb

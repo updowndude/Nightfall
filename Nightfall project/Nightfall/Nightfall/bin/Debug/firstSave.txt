@@ -1,0 +1,16 @@
+1-2 Boiler Room
+Pretty Polly
+100
+20
+50
+0
+Kestryl
+120
+True
+Illya
+100
+True
+0
+0
+0
+0

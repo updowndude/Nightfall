@@ -1,0 +1,57 @@
+<Event 1>
+
+You have decided to take on this mission with [allyone] and [allytwo]. 
+
+<click>
+
+You and your team have been dropped off 20km south of Stexom, the capital city of the metal nation to arrest the Consul in the name of the Council of Nations.
+
+<click>
+
+Princess Miranda of Drensbery sends you a communication!
+
+Princess Miranda: "[player name], we've tracked the Consul to an underground fortress in this location. He is being protected by a host of... odd... minions. As long as he is taking orders from Vorgon, then Vorgon will remain a threat to the world, so this mission is imperative. Once the Consul is removed from power, Vorgon will have to come out of hiding to continue giving orders to his henchmen. The Consul himself, although not dangerous by himself, is very eccentric and has an odd propensity for puzzles and riddles. Reaching him will require a bit more cleverness than what can be offered through pure brute force. Good luck to you!"
+
+<done>
+
+
+
+-----------------------------------
+
+<Event 2>
+
+You are approached by a riddle-loving metal titan. He kneels down to you and says, "Before you can pass through the dark portal, you must answer my riddle. Are you ready to hear it, puny adventurers?"
+
+<click>
+
+[RIDDLE GOES HERE LOL]
+
+<wrong>
+
+Metal Titan: "WRONG ANSWER!"
+
+He then smashes you by clapping his huge iron hands together, killing you and your party instantly.
+
+<right>
+
+Metal Titan: "Good answer..."
+
+The Metal Titan then evaporates into a gaseous cloud that quick dissipates, out of shame.
+
+
+<done>
+
+
+------------------------------------
+
+<Event 3>
+
+The evil unicorn falls to his knees, breathing heavily, near the throes of death. "You fools...", he pants, "Putting my master in prison won't bring peace to this world. You are merely pawns for the real enemy - the Council of Nations! They are only interested in power and squashing anyone who stands up to them. YOU WILL REGRET THIS." but with a mighty swing of your sword, you put down the final enemy standing between you and your objective.You are a mercenary first, and all the political nonsense comes second to completing your mission.
+
+<click>
+
+Prologue
+
+The Consul has been brought out and arrested. Princess Miranda sends you another message: "Excellent work, [player name]! Because of your bravery, the world is one step closer to living in peace once more!" However, the dying evil unicorn's words echo in your mind, and you can only wonder if that is truly the case...
+
+<done>
