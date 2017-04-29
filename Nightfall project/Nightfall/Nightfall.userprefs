@@ -1,11 +1,7 @@
 ﻿<Properties StartupConfiguration="{0DD53050-D193-4E68-9EBD-F97F1CB597F7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Nightfall/Control Console.Designer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Nightfall/Control Console.cs">
     <Files>
-      <File FileName="Nightfall/Control Console.cs" Line="17" Column="32" />
-      <File FileName="Nightfall/Control Console.resx" Line="1" Column="11" />
-      <File FileName="Nightfall/WelcomeScreen.resx" Line="4" Column="21" />
-      <File FileName="Nightfall/WelcomeScreen.Designer.cs" Line="8" Column="18" />
-      <File FileName="Nightfall/Control Console.Designer.cs" Line="1" Column="1" />
+      <File FileName="Nightfall/Control Console.cs" Line="2811" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
